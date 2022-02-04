@@ -10,11 +10,12 @@ paginate = "4"
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
-disableLanguages = []
+disableLanguages = ["en"]
 # Short name to enable Disqus comments
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
 googleAnalytics = ""
+defaultContentLanguage = "zh"
 
 
 ############################# Modules ##############################
@@ -180,7 +181,6 @@ attributes = ""
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 attributes = "defer"
-
 
 ################################# English translation #########################
 [languages.en]
