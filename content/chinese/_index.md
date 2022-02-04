@@ -12,7 +12,7 @@ banner:
   title: "A Digital Marketing <br/> & Design Agency"
   content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
-    enable: true
+    enable: false
     label: "Discover Our Project"
     link: "project"
 
