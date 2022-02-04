@@ -207,7 +207,7 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
-[[languages.zh.menu.main]]
-hasChildren = true
-name = "更多"
-weight = 5
+# [[languages.zh.menu.main]]
+# hasChildren = true
+# name = "更多"
+# weight = 5
