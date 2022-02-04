@@ -3,7 +3,7 @@ title: "关于我们公司"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
-draft: false
+draft: true
 menu:
   main:
     name: "关于"
