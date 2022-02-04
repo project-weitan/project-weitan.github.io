@@ -203,7 +203,7 @@ languageName = "中文"
 languageCode = "zh-CN"
 contentDir = "content/chinese"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [WeiTan](https://project-weitan.github.io). All Rights Reserved."
 
 # Navigation menus
 # NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
